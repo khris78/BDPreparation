@@ -1,5 +1,5 @@
 # BDPreparation
-Inspiré de https://github.com/javascriptdezero/BattleDev-vscode, qui fait la mêm chose (en mieux) pour le code en Javascript.
+Inspiré de https://github.com/javascriptdezero/BattleDev-vscode, qui fait la même chose (en mieux, avec des smileys) pour le code en Javascript.
 
 L'idée est de pouvoir exécuter/débugguer le code C# pour la BattelDev depuis VSCode.
 
