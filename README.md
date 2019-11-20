@@ -13,6 +13,6 @@ la sortie attendue.
 
 Dans mon VSCode pour Linux, il a fallu que j'installe : 
 * le plugin ms-vscode-csharp
-* le framework dotnet
+* le framework .Net (core 3.0)
 
 Have fun !
